@@ -2,7 +2,7 @@ FROM registry.access.redhat.com/openshift3/jenkins-agent-maven-35-rhel7
 
 MAINTAINER Siamak Sadeghianfar <ssadeghi@redhat.com>
 
-ENV GRADLE_VERSION=5.2.1
+ENV GRADLE_VERSION=4.9
 
 USER root
 
